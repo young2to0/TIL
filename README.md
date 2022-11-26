@@ -19,7 +19,8 @@ WITH RECURSIVE 테이블명 AS(
 
 - 반복문이라고 생각하면 이해하기 쉬움
 
-<details>
+</div>
+</details>
 
 
 
