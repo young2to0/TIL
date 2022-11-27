@@ -23,7 +23,15 @@ WITH RECURSIVE 테이블명 AS(
 </details>
 
 
-
+<details>
+<summary>20221127</summary>
+<div markdown="1">
+* 프로젝트 정리하기
+<dr>
+* SQL 코테 풀기
+</dr>
+</div>
+</details>
 
 
 
